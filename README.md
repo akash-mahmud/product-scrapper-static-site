@@ -1,0 +1,1 @@
+# product-scrapper-static-site
